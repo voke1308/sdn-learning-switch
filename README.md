@@ -54,9 +54,6 @@ mininet> h1 iperf -c 10.0.0.2
 - Second ping: forwarded directly by switch (no packet_in)
 - Flow table shows installed rules with idle_timeout=30
 
-## Screenshots
-[Add your screenshots here]
-
 ## References
 - Ryu documentation: https://ryu.readthedocs.io
 - Mininet walkthrough: http://mininet.org/walkthrough/
